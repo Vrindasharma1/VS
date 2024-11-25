@@ -1,0 +1,19 @@
+#Use of command line is striclty reccomended
+#Use of ChatGPT, youtube and google is reccomended
+
+
+
+STEPS:
+1. Clone this repo
+2. You will find 3 practice questions in C, complete them
+3. Compile the source code using GCC
+4. Put the executable binaries into a new folder named "SUBMISSION"
+5. Use git from terminal to push this whole repo with answers to your own github
+
+
+
+WHAT UR EXPECTED TO LEARN DURING THIS:
+1. Use of git tools
+2. Familiarity with CLI
+3. How to learn new things and teach yourself
+4. Basic of C language and Linux
